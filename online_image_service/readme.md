@@ -1,1 +1,1 @@
-![System Diagram](image.drawio.svg)
+![System Diagram](./image.drawio.svg)
